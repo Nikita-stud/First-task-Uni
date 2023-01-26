@@ -1,8 +1,14 @@
 # First-task-Uni
 First Lesson task
 edit it as you want I guess
-<Doktype! html>
+<Doktype!>
 <html>
 <head> </head>
-<body> </body>
+
+<body>
+<p1>I love food </p>
+<button>Here I am your boy</button>
+ </body>
+
 </html>
+
